@@ -1,8 +1,10 @@
+package basics;
+
 import java.util.Arrays;
 
-public class selectionSort {
+public class insertionSort {
     public static void main(String[] args) {
-        int[] arr = {5, 3, 8, 6, 2};
+        int[] arr = {9,9,9,1,0,-1,90,2,-100};
         Sort(arr);
         System.out.println();
         System.out.println(Arrays.toString(arr));
@@ -12,15 +14,13 @@ public class selectionSort {
         int n = arr.length;
         
         for (int i = 0; i < n-1; i++) {
-            int minIndex = i;
-            for (int j = i+1; j < n; j++) {
-                if (arr[j] < arr[minIndex]) {
-                    minIndex = j;
+            for(int j=i+1; j>0; j--){
+                if (arr[j]<arr[j-1]) {
+                    int t = arr[j];
+                    arr[j] = arr[j-1];
+                    arr[j-1] = t;
                 }
             }
-            int temp = arr[minIndex];
-            arr[minIndex] = arr[i];
-            arr[i] = temp;
         }
     }
 }

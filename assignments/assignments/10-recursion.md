@@ -6,7 +6,7 @@
 ## Easy
 - [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
-- [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
+- [Binary Search using basics.recursion](https://leetcode.com/problems/binary-search/) `leetcode`
 - [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
 - [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
@@ -32,7 +32,7 @@
 - [Write a recursive function that returns the factorial of a number.](https://www.hackerrank.com/challenges/30-recursion/problem) `HackerRank`
 - [Write a recursive function to check whether an array is sorted or not.](https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive) `GFG`
 - [Number of Steps to Reduce a Number to Zero.](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) `leetcode`
-- [Check for balanced paranthesis using recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
+- [Check for balanced paranthesis using basics.recursion without stack.](https://www.geeksforgeeks.org/check-for-balanced-parenthesis-without-using-stack/) `GFG`
 - [Remove consecutive duplicate characters from a string.](https://www.geeksforgeeks.org/remove-consecutive-duplicates-string/) `GFG` 
 - [Print all possible palindromic partitions of a string.](https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/) `GFG`
 - [Power Set of permutations of a string in Lexicographic order.](https://www.geeksforgeeks.org/powet-set-lexicographic-order/) `GFG`
@@ -62,8 +62,8 @@
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) `leetcode`
 - [Letter tile possibilities](https://leetcode.com/problems/letter-tile-possibilities/) `leetcode`
 - [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) `leetcode`
-- [Sort a stack using recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
-- [Reverse a stack using recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
+- [Sort a stack using basics.recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) `GFG`
+- [Reverse a stack using basics.recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/) `GFG`
 - [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) `leetcode`
 - [Lowest Common Ancestor of a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1/) `GFG` `Amex`
 - [Prime numbers after prime P with sum S](https://www.geeksforgeeks.org/prime-numbers-after-prime-p-with-sum-s/) `GFG`

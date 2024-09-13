@@ -1,8 +1,9 @@
-import java.lang.reflect.Array;
+package basics;
+
 import java.util.*;
 
 /**
- * moveZeros
+ * basics.moveZeros
  */
 public class moveZeros {
 

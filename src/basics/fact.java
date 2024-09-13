@@ -1,3 +1,5 @@
+package basics;
+
 public class fact {
     public static void main(String[] args) {
         System.out.println(sumofdig(1342));

@@ -1,3 +1,4 @@
+package basics;
 
 public class poweroffour {
     public static void main(String[] args) {

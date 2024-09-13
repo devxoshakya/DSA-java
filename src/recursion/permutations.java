@@ -2,7 +2,7 @@ package recursion;
 
 public class permutations {
     public static void main(String[] args) {
-        permute("","abc");
+        permute("","basics.abc");
     }
 
     static void permute(String p, String up){

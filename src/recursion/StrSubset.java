@@ -1,7 +1,7 @@
 package recursion;
 public class StrSubset {
     public static void main(String[] args) {
-        System.out.println(removeChar("abc"));
+        System.out.println(removeChar("basics.abc"));
         System.out.println(removeStr("devdevdev1234568 456developer"));
     }
 

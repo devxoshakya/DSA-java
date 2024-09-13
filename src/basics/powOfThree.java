@@ -1,3 +1,5 @@
+package basics;
+
 public class powOfThree {
     public static void main(String[] args) {
         System.out.println(isPowerOfThree(27));

@@ -1,3 +1,5 @@
+package basics;
+
 public class bitwise {
     public static void main(String[] args) {
         int[] res = {-2,0,10,-19,4,6,-8};

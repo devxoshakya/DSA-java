@@ -1,6 +1,8 @@
+package basics;
+
 public enum abc {
 
-     Akshy("this is eler"),
+     Akshy("this is elder"),
     aryan("he is mid as fuck");
      private String value="";
     abc(String value){
@@ -10,6 +12,4 @@ public enum abc {
     public String resoruce(){
         return value;
     }
-
-
 }
