@@ -2,6 +2,11 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea
+DSA-Java.iml
+auto.sh
+assignments
+SYLLABUS.md
 
 ### Eclipse ###
 .apt_generated
