@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 public class StrSubset {
     public static void main(String[] args) {
         System.out.println(removeChar("basics.abc"));

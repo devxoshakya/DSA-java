@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class revStr {
     public static void main(String[] args) {

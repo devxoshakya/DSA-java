@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 import OOPs.akshita;
 
 public class debji {

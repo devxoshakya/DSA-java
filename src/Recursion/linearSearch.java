@@ -1,4 +1,4 @@
-package recursion;
+package Recursion;
 
 public class linearSearch {
     public static void main(String[] args) {
